@@ -1,6 +1,9 @@
 # Doomsday CLI
+[![GitHub version](https://badge.fury.io/gh/starkandwayne%2Fdoomsday-cli.svg)](ttps://github.com/starkandwayne/doomsday-cli/releases/latest)
 
 [Doomsday](https://github.com/doomsday-project/doomsday) is a server which can be configured to track certificates from different storage backends (Vault, Credhub, Pivotal Ops Manager, or actual websites) and provide a tidy view into when certificates will expire. Doomsday CLI provides the option to get all required information about certificates expiration in the JSON format and apply filters to get more detailed results.
+
+![Dashboard](images/dashboard.png "Dashboard")
 
 ## Installation
 
